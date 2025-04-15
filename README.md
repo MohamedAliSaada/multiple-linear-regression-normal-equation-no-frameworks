@@ -1,5 +1,3 @@
-![Y_pred vs Y_real](Y_pred%20VS%20Y_real%20using%20normal%20equation.png)
-
 # Multiple Linear Regression — Normal Equation (No Frameworks)
 
 A simple implementation of **Multiple Linear Regression** using the **Normal Equation** in pure **NumPy**, without any machine learning frameworks.
@@ -16,7 +14,7 @@ A simple implementation of **Multiple Linear Regression** using the **Normal Equ
 - Predicts target values
 - Compares actual vs predicted values
 - Visualizes results in a scatter plot
-
+![Y_pred vs Y_real](Y_pred%20VS%20Y_real%20using%20normal%20equation.png)
 ## ▶️ How to Run
 
 Make sure you have Python installed with `numpy`, `pandas`, and `matplotlib`:
